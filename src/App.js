@@ -8,6 +8,7 @@ import "./style.css";
 
 const App = () => {
   return (
+    <div className='style'>
     <div className="app">
       <div className= 'contact'>
       <Contact />
@@ -18,6 +19,7 @@ const App = () => {
       <Skills/>
       <Education/>
       </div>
+    </div>
     </div>
   );
 };

@@ -1,14 +1,18 @@
-*{
-    background-color: rgb(216, 214, 214);
-
+.style {
+    background-color: rgba(128, 128, 128, 0.363);
 }
+
+
 .app {
-margin-left: 25%;
+    margin:0% 15% 0% 15%;
+
 display: flex;
+background-color: white;
 }
 
 .allItem {
-    margin-left: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
     /* background-color: white; */
 }
 
