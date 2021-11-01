@@ -9,11 +9,12 @@ const Skills = () => {
         <BiAlignLeft />
         Skills
       </h1>
-
-      <p>1- html</p>
-      <p>2- css</p>
-      <p>3- js</p>
-      <p>4- java</p>
+{/* <div className='skillsP'> */}
+      <p> html</p>
+      <p> css</p>
+      <p> java script</p>
+      <p> java</p>
+      {/* </div> */}
     </div>
   );
 };

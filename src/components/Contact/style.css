@@ -7,3 +7,15 @@
 font-size: 40px;
 
 }
+
+.personIcon {
+  font-size: 100px;
+}
+
+.myName {
+  color: black;
+}
+
+.myJob {
+  color: gray;
+}

@@ -1,11 +1,11 @@
 import { BsFillPersonFill } from "react-icons/bs";
-
+import "./style.css"
 const About = () => {
   return (
     <div className="about">
       <h1><BsFillPersonFill/>ABOUT</h1>
       <hr/>
-      <p>Over the past 20 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. My current role at IAG is Senior Front End Developer (or Senior Software Engineer as IAG prefer to label us) and have been developing with React and Redux for the past 4 years.</p>
+      <p>Over the last 5 years i have study and graduate from qassim university and i am a hard working man and i am enthusiastic about learning new skills. ccommit to maintaining excellence in information system use, and knowledge of java programming language and java script and html and css </p>
     </div>
   );
 };
