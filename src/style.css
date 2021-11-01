@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(216, 214, 214);
+
+}
+.app {
+margin-left: 25%;
+display: flex;
+}
+
+.allItem {
+    margin-left: 20%;
+    /* background-color: white; */
+}
+
+.contact {
+    /* background-color: white; */
+}
